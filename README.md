@@ -31,7 +31,7 @@
 
 **Hello Microverse** is a great project to learn about Linters.
 
-> This project is compiled using HTML, CSS and JS.
+This project is compiled using HTML, CSS and JS.
 
 <!-- Features -->
 
