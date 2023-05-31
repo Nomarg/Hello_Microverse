@@ -10,9 +10,6 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -33,9 +30,6 @@
 > It is first project of microverse to show how I use tools.
 
 **Hello Microverse** is a great project to learn about Linters.
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
 
 > This project is compiled using HTML, CSS and JS.
 
