@@ -27,7 +27,7 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> It is first project of microverse to show how I use tools.
+> This is my first microverse project to show how I use tools.
 
 **Hello Microverse** is a great project to learn about Linters.
 
